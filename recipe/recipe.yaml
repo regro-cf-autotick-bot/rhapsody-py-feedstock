@@ -1,7 +1,7 @@
 schema_version: 1
 
 context:
-  version: "0.5.0"
+  version: "0.6.0"
 
 package:
   name: rhapsody-py
@@ -9,7 +9,7 @@ package:
 
 source:
   url: https://pypi.org/packages/source/r/rhapsody-py/rhapsody_py-${{ version }}.tar.gz
-  sha256: 229c217c64564aac0e206a64f138976ab9de3b33cc16c9d8b02d815be27f4c4b
+  sha256: d7c11032fd7d991a3c6873592e3ca725d73f977057fff428a9ed0a23e3e0fda7
 
 build:
   number: 0
